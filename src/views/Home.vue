@@ -34,15 +34,15 @@ export default {
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
-  .container-infos {
-    width: 100vw;
-    height: 100vh;
-    display: flex;
-    align-items: center;
-    padding-left: 100px;
-
-    .infos {
-      width: 610px;
+        .container-infos {
+          width: 100vw;
+          height: 100vh;
+          display: flex;
+          align-items: center;
+          padding-left: 100px;
+      
+          .infos {
+            width: 610px;
       .hello {
         text-transform: uppercase;
         font-size: 2rem;
